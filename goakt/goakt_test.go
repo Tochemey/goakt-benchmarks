@@ -37,7 +37,7 @@ import (
 	"github.com/tochemey/goakt/v4/log"
 	"github.com/tochemey/goakt/v4/remote"
 
-	"github.com/tochemey/goakt-examples/goakt-benchmarks/internal/bench"
+	"github.com/tochemey/goakt-benchmarks/internal/bench"
 )
 
 var system actor.ActorSystem

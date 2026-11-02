@@ -37,7 +37,7 @@ import (
 	"github.com/asynkron/protoactor-go/cluster/identitylookup/disthash"
 	"github.com/asynkron/protoactor-go/remote"
 
-	"github.com/tochemey/goakt-examples/goakt-benchmarks/internal/bench"
+	"github.com/tochemey/goakt-benchmarks/internal/bench"
 )
 
 var system *actor.ActorSystem

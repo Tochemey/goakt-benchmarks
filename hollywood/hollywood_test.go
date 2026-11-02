@@ -31,7 +31,7 @@ import (
 
 	"github.com/anthdm/hollywood/actor"
 
-	"github.com/tochemey/goakt-examples/goakt-benchmarks/internal/bench"
+	"github.com/tochemey/goakt-benchmarks/internal/bench"
 )
 
 var engine *actor.Engine

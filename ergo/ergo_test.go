@@ -31,7 +31,7 @@ import (
 	"ergo.services/ergo/act"
 	"ergo.services/ergo/gen"
 
-	"github.com/tochemey/goakt-examples/goakt-benchmarks/internal/bench"
+	"github.com/tochemey/goakt-benchmarks/internal/bench"
 )
 
 var node gen.Node

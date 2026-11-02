@@ -9,7 +9,7 @@ Benchmarks that compare [GoAkt](https://github.com/Tochemey/goakt) with other Go
 | [protoactor](./protoactor) | [Proto.Actor Go](https://github.com/asynkron/protoactor-go) | `v0.0.0-20260118094027-288962e52f3f` |
 | [hollywood](./hollywood) | [Hollywood](https://github.com/anthdm/hollywood) | v1.0.5 |
 
-This directory is its own Go module, with its own `go.mod`. The competing frameworks and their dependencies stay out of the root examples module, and every framework is pinned to an exact version, so results can be reproduced.
+Every framework is pinned to an exact version in `go.mod`, so results can be reproduced.
 
 ## At a glance
 

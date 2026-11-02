@@ -1,4 +1,4 @@
-module github.com/tochemey/goakt-examples/goakt-benchmarks
+module github.com/tochemey/goakt-benchmarks
 
 go 1.27.3
 
